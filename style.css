@@ -1,0 +1,122 @@
+body{
+    background-color: #F5F5F5 !important;
+}
+
+.container {
+    display: block;
+    margin-top: 175px;
+
+}
+
+
+.img-logo {
+    height: 224px;
+    width: 245px;
+    align-items: center;
+}
+
+
+.img-google , .img-apple{
+    height: 40px;
+    width: 130px;
+    margin-top: 13px;
+}
+
+
+
+.card-top{
+    margin-bottom: 10px;
+    display: block;
+    max-width: 350px;
+    width: 380px;
+    height: 310px;
+    color: rgba(38, 38, 38, 1);
+    background-color: rgba(var(--d87,255,255,255),1);
+    padding-left: 37px;
+    padding-right: 37px;
+}
+
+
+.btn-login {
+    background-color: rgba(var(--d69,0,149,246),.3);
+    border: 1px solid transparent;
+    border-radius: 4px;;
+    color: rgba(var(--eca,255,255,255),1);
+    width: 272px;
+}
+
+
+.inpt {
+    width: 272px;
+    height: 43px;
+    font-size: 14px;
+    color: rgba(var(--i1d,38,38,38),1);
+    background: rgba(var(--b3f,250,250,250),1);
+    overflow: hidden;
+    padding: 9px 0 7px 8px;
+    border: 1px solid #D3D3D3	;
+    
+}
+
+
+.card-btm {
+    display: block;
+    max-width: 350px;
+    width: 380px;
+    height: 64px;
+    color: rgba(38, 38, 38, 1);
+    background-color: rgba(var(--d87,255,255,255),1);
+    text-align: center;
+    font-size: 14px;
+}
+
+.psw {
+    text-align: center;
+    font-size:12px ;
+    margin-top: 13px;
+    margin-bottom: 19px;
+    color: rgba(var(--fe0,0,55,107),1);
+    text-decoration: none;
+}
+
+
+a:hover {
+    text-decoration: none;
+  }
+
+
+.card-btm-text {
+    margin-top: 20px;
+    font-size: 14;
+
+}
+
+.get {
+    text-align: center;
+    font-size: 14px;
+    margin-top: 20px;
+}
+
+
+.text-footer {
+    color: #8e8e8e;
+    font-size: 13px;
+    display: block;
+    margin-left: 15px;
+    margin-top: 200px;
+}
+
+
+.text-ftr {
+    color: #8e8e8e;
+    font-size: 13px;
+    display: block;
+    margin-left: 15px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+.error {
+    color: red;
+    font-size: 11px;
+}
